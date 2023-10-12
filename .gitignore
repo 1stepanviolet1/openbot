@@ -1,0 +1,18 @@
+__pycache__/
+
+
+# visual studio
+*.sln
+*vcxproj*
+.vs*
+crypto_parse/tickers_api/x64/
+users/users/x64/
+
+
+# private
+# users/users/settings.json
+session.txt
+
+# tmp
+crypto_parse/ex_resp.json
+
