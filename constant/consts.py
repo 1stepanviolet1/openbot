@@ -1,7 +1,7 @@
 from var import CREATE_ACT_FLAG, _CONST
 
 
-TOKEN: _CONST = "6262186295:AAFp6dOoOCbvAx1Is6jeyhjCGhJRAPBb4Ls"
+TOKEN: _CONST
 
 
 DATA_DELETE_FILE: _CONST = "delete_document"
