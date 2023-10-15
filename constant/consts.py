@@ -3,8 +3,6 @@ from var import CREATE_ACT_FLAG, _CONST
 
 TOKEN: _CONST = "6262186295:AAFp6dOoOCbvAx1Is6jeyhjCGhJRAPBb4Ls"
 
-# ADMINS_ID: list = [1167052992]
-
 
 DATA_DELETE_FILE: _CONST = "delete_document"
 
